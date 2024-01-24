@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "464442803088",
+    "project_id": "amith-e2df7",
+    "storage_bucket": "amith-e2df7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464442803088:android:a25e7fd05d4945b210e915",
+        "android_client_info": {
+          "package_name": "com.example.anithapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCulvtxpFnzWb8KnMJ-p_mtORLnRVVYDeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
